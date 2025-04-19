@@ -1,8 +1,0 @@
-{
-  "public": {
-    "env": "production"
-  },
-  "MONGO_URL": "mongodb+srv://alanaforever:g66rtRQrfRIir536@alanalezca.0zgertx.mongodb.net/meteor?retryWrites=true&w=majority&tls=true"
-,
-  "ROOT_URL": "https://tonapp.meteorapp.com"
-}
